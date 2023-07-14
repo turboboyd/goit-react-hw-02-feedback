@@ -1,0 +1,30 @@
+.statistics_wrap {
+    width: 350px;
+    margin: 0 auto;
+}   
+
+.reviews {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 18px;
+}
+
+.reviews li {
+    display: flex;
+    gap: 12px;
+}
+
+.total_wrap {
+    display: flex; 
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.text{
+    color: rgb(31, 30, 29); 
+    font-size: 18px;
+}
+
+.text_total{
+    font-size: 22px;
+}
