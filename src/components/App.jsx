@@ -6,7 +6,6 @@ import { Section } from './Section/Section';
 import { Notification } from './Notification/Notification';
 
 export class App extends React.Component {
-  
   state = {
     good: 0,
     neutral: 0,
